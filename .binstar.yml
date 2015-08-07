@@ -1,0 +1,4 @@
+package: oslo.utils
+script:
+  - conda build .
+build_targets: conda
